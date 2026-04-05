@@ -1,4 +1,4 @@
-# Rust API
+# Rust First API
 
 This project is a simple Rust-based API built using the Axum framework. It provides endpoints to manage `Employee` resources.
 
